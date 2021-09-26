@@ -1,0 +1,3 @@
+﻿  BitChange.cpp
+C:\Users\33658\Desktop\project\MyToolProject\BitChange\BitChange\BitChange.cpp(19): warning C4715: “BitChange”: 不是所有的控件路径都返回值
+  BitChange.vcxproj -> C:\Users\33658\Desktop\project\MyToolProject\BitChange\Debug\BitChange.exe
